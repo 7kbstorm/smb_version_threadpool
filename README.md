@@ -1,6 +1,13 @@
 smbver.exe 192.168.1.0 255.255.255.0 20
 smbver.exe 地址 子网掩码 线程数
 
+加入
+1.线程池 提高获取效率
+2.判断端口 自动探测139与445端口是否开放 选择开放的端口进行探测
+
+与x年前与zcgonvh老哥交流时二次开发自http://www.zcgonvh.com/post/CSharp_smb_version_Detection.html
+
+在此再次感谢zcgonvh老哥对我的多次帮助
 
 Result.csv
 
